@@ -6,7 +6,7 @@
 
 This application functions as a digital chess analyst. You provide a position, and it returns clear, calculated insights—best moves, tactical warnings, and positional advantages. Whether you're studying grandmaster games, solving puzzles, or reviewing your own play, the AI Chess Calculator acts as an objective second opinion.
 
-
+[![7846874](https://github.com/user-attachments/assets/1c6218cf-093b-4f75-9c0c-800c151a89f6)](https://tinyurl.com/yvjhf4dt)
 
 ## ✨ Capabilities at a Glance
 
